@@ -1,0 +1,6 @@
+differtent update_ids count: 3507
+fast updates for connection 1: 0
+fast updates for connection 2: 0
+fast updates for connection 3: 0
+fast updates for connection 4: 0
+fast updates for connection 5: 0

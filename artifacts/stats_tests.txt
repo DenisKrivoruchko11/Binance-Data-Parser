@@ -1,0 +1,4 @@
+ANOVA test for means: F-statistic = -1.6461313109431568e-29, p-value = nan
+means do not differ
+Levene test for variances: W-statistic = 0.0, p-value = 1.0
+standard deviations do not differ
